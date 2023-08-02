@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Duaa Khaliq</h1>
 <h3 align="center">"Building the Web: Code and Creativity in Backend, Frontend & Design"</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align="right" alt="Coding" width="200" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duaakhaliq&label=Profile%20views&color=0e75b6&style=flat" alt="duaakhaliq" /> </p>
 
