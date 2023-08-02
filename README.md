@@ -4,9 +4,8 @@
 <div id="badges" align="right">
 <img align="center" alt="Coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 <a href="https://www.linkedin.com/in/duaa-khaliq">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ align="center">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ >
   </a>
-</div>
 </div>
 - 🔭 I’m currently working on [Restaurant Management System](https://github.com/faheeliec/restaurant-ordering-system)
 
